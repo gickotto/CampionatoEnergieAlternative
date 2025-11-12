@@ -1,0 +1,28 @@
+prendi come riferimento il regolamento del campionato spagnolo e, come se fossi un consigliere della commissione, prepara una proposta da inviare alla commissione sportiva italiana per chiedere le seguenti variazioni al regolamento:
+* Il peso del veicolo è quello dichiarato dal produttore dell'auto nella Scheda Tecnica, alla voce Massa in Ordine di Marcia (MOM).
+* Si considera come MOM il risultato di sommare alla tara la massa standard di un conducente 75 kg.
+* La pesatura si effettuerà senza persone, senza bagagli a bordo e con un massimo di una ruota di scorta o kit anti-foratura.
+* Se un veicolo dovesse risultare con una MOM alla bilancia inferiore al 3% di quella indicata nel suo libretto di circolazione sarà penalizzato nel suo indice di efficienza
+* È severamente proibito qualsiasi tipo di zavorra o eliminazione di materiali che alterino il peso del veicolo. L'inosservanza di questa disposizione comporterà l'applicazione di una penalizzazione nel suo indice di efficienza
+* per le vetture BEV viene utilizzato il valore della capacità utile quando dichiarata dal costruttore; inoltre viene considerata l'effettiva capacità qualora il concorrente presenti un certificato CARA che dichiari lo SOH
+* I pneumatici devono essere tutti del tipo, qualità e dimensione previsti dai produttori nella scheda tecnica del veicolo. * Se i veicoli non sono equipaggiati con pneumatici "run-flat", devono portare a bordo una ruota di scorta, cric e attrezzi, o qualsiasi altro equipaggiamento di riparazione pneumatici (per esempio, un "gonfia e ripara" o una "riparazione istantanea di forature").
+* La pressione massima di gonfiaggio sarà quella stabilita dai produttori per la condizione di minimo numero di occupanti e carico leggero.
+* È consentito solo il gonfiaggio dei pneumatici con aria.
+* Nelle verifiche eseguite a partire dal secondo chilometro dalla partenza viene applicata una tolleranza di 0,3 bar.
+* Tutti i partecipanti dovranno fornire al momento dell'iscrizione: il COC del veicolo e il libretto di circolazione del veicolo.
+* I partecipanti non sono obbligati a presentare la scheda tecnica allegata, ma la mancata consegna entro il termine delle verifiche tecniche ante-gara comporta l'accettazione dei valori assegnati dal Delegato Tecnico
+* L'installazione di camera car, dispositivi per il sistema di navigazione e di cronometraggio all'interno dell'abitacolo è ammessa dove non limitino la visibilità del conducente e l'efficacia dei sistemi di sicurezza del veicolo, come ad esempio gli airbag.
+* la procedura di rifornimento in più fasi intervallate da 20-30 secondi di pausa invece che due minuti
+*  In ogni caso in cui non sia possibile definire con univocità il consumo ufficiale del veicolo in gara verrà applicato il consumo ufficiale più basso corrispondente al modello del veicolo individuato dal Delegato Tecnico.
+* Per le vetture PHEV il consumo energetico ufficiale di riferimento (MJ/100km) sarà ricalcolato con la seguente formula:
+
+$$
+CUV_{PHEV} = \frac{Ee + CUV_{CS} * \frac{D-Ae}{100}}{D}
+$$
+
+dove
+- $Ee$: Energia totale della batteria di trazione (MJ) 
+- $D$: Distanza totale della gara come da tabella tempi e distanze (km) 
+- $Ae$: Autonomia elettrica dichiarata nel Certificato di Conformità (km)
+- $CUV_{CS}$: Consumo energetico Ufficiale del Veicolo relativo al carburante in modalità mantenimento di carica (MJ/100km)
+* nel caso il consumo di carburante a batteria scarica non sia dichiarato nel Certificato di Conformità si utilizzerà il consumo di carburante più basso dichiarato nel certificato
